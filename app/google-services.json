@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "844755649495",
+    "firebase_url": "https://noting-me.firebaseio.com",
+    "project_id": "noting-me",
+    "storage_bucket": "noting-me.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844755649495:android:0e03ecf86725c7bde3c192",
+        "android_client_info": {
+          "package_name": "com.example.notingme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844755649495-4sropk2cq936dt32mneesc801f7c3eh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwS7ZNO0rueLzxBUu4wIyeZaXQ7whyJRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844755649495-4sropk2cq936dt32mneesc801f7c3eh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

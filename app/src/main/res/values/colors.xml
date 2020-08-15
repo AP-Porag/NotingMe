@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFEB3B</color>
+    <color name="colorPrimaryDark">#FBC02D</color>
+    <color name="colorAccent">#4CAF50</color>
+
+<!--    Custom Color-->
+
+    <color name="primary_light">#FFF9C4</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#212121</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="white">#FFFFFF</color>
+
+<!--    Random Color list for note description background-->
+
+    <color name="colorOne">#252590</color>
+    <color name="colorTwo">#246051</color>
+    <color name="colorThree">#3ed8ce</color>
+    <color name="colorFour">#BDBDBD</color>
+    <color name="colorFive">#79430a</color>
+    <color name="colorSix">#bb34b9</color>
+    <color name="colorseven">#f45131</color>
+    <color name="colorEight">#44457f</color>
+    <color name="colorNine">#97bff6</color>
+    <color name="colorTen">#337994</color>
+    <color name="colorEleven">#b73b66</color>
+    <color name="colorTwelve">#116084</color>
+    <color name="colorThirteen">#aed2ea</color>
+    <color name="colorFourteen">#e1126b</color>
+    <color name="colorFifteen">#1346ed</color>
+    <color name="colorSixteen">#9d328c</color>
+</resources>

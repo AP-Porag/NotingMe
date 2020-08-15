@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="General">
+        <menu>
+            <item
+               android:id="@+id/allNotesXML"
+                android:icon="@drawable/notes_icon"
+                android:title="All Notes" />
+            <item
+                android:id="@+id/addNotesXML"
+                android:icon="@drawable/add_note"
+                android:title="Add Notes" />
+            <item
+                android:id="@+id/syncNotesXML"
+                android:icon="@drawable/sync_note"
+                android:title="Sync Notes" />
+        </menu>
+    </item>
+    <item android:title="Support">
+        <menu>
+            <item
+                android:id="@+id/rateUsXML"
+                android:icon="@drawable/rate_us_icon"
+                android:title="Rate Us" />
+            <item
+                android:id="@+id/shareAppXML"
+                android:icon="@drawable/share_icon"
+                android:title="Share App" />
+        </menu>
+    </item>
+    <item android:title="Logout">
+        <menu>
+            <item
+                android:id="@+id/logOutXML"
+                android:icon="@drawable/log_out_icon"
+                android:title="Log Out" />
+        </menu>
+    </item>
+
+</menu>
